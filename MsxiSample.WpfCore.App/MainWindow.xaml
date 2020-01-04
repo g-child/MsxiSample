@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="Version 1.1" FontSize="40"/>
+        <TextBlock Text="Version 1.4" FontSize="40"/>
     </Grid>
 </Window>
